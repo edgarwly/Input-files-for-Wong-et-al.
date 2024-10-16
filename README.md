@@ -1,5 +1,11 @@
 # Input-files-for-Wong-et-al.
-Analytical input files for analyses used in Wong et al. 
+Analytical input files for analyses used in 
+
+Strong divergent selection at multiple loci in two closely related species of ragworts adapted to high and low elevations on Mount Etna
+
+Edgar L. Y. Wong, Bruno Nevado, Owen G. Osborne, Alexander S. T. Papadopulos, Jon R. Bridle, Simon J. Hiscock, Dmitry A. Filatov
+
+https://doi.org/10.1111/mec.15319
 
 SNPs.vcf	      
 VCF file containing the 1769 SNPs used in the study
